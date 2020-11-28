@@ -43,12 +43,12 @@ hi ErrorMsg guifg=#000000 guibg=#d7875f guisp=#d7875f gui=NONE ctermfg=NONE cter
 hi Debug guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
 hi PMenuSbar guifg=NONE guibg=#848688 guisp=#848688 gui=NONE ctermfg=NONE ctermbg=102 cterm=NONE
 hi Identifier guifg=#af5faf guibg=NONE guisp=NONE gui=NONE ctermfg=133 ctermbg=NONE cterm=NONE
-hi SpecialChar guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=1 ctermbg=NONE cterm=NONE
+hi SpecialChar guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=216 ctermbg=NONE cterm=NONE
 hi Conditional guifg=#b06ca5 guibg=NONE guisp=NONE gui=bold ctermfg=133 ctermbg=NONE cterm=bold
 " VIVIFY CORRECTION
 hi StorageClass guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=249 ctermbg=NONE cterm=bold
 hi Todo guifg=#000000 guibg=#d7875f guisp=#d7875f gui=NONE ctermfg=NONE ctermbg=173 cterm=NONE
-hi Special guifg=#f5a860 guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
+hi Special guifg=#f5a860 guibg=NONE guisp=NONE gui=NONE ctermfg=216 ctermbg=NONE cterm=NONE
 hi LineNr guifg=#f2bd8e guibg=#3a3a3a guisp=#3a3a3a gui=NONE ctermfg=216 ctermbg=237 cterm=NONE
 hi StatusLine guifg=#ffffff guibg=#af5faf guisp=#af5faf gui=bold ctermfg=15 ctermbg=133 cterm=bold
 hi Label guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
@@ -95,8 +95,8 @@ hi PMenuThumb guifg=NONE guibg=#a4a6a8 guisp=#a4a6a8 gui=NONE ctermfg=NONE cterm
 hi MatchParen guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 hi Repeat guifg=#d75f87 guibg=NONE guisp=NONE gui=bold ctermfg=168 ctermbg=NONE cterm=bold
 hi SpellBad guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
-hi Directory guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
-hi Structure guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=60 ctermbg=NONE cterm=bold
+hi Directory guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=249 ctermbg=NONE cterm=bold
+hi Structure guifg=#536991 guibg=NONE guisp=NONE gui=bold ctermfg=249 ctermbg=NONE cterm=bold
 " VIVIFY CORRECTION
 hi Macro guifg=#BD9800 guibg=NONE guisp=NONE gui=NONE ctermfg=168 ctermbg=NONE cterm=NONE
 hi Underlined guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
